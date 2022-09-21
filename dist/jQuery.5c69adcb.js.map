@@ -1,0 +1,1 @@
+{"version":3,"sources":["jQuery.js"],"names":["window","jQuery"],"mappings":"AAAAA,MAAM,CAACC,MAAP,GAAgB,YAAY,CAAE,CAA9B","file":"jQuery.5c69adcb.js","sourceRoot":"..\\src","sourcesContent":["window.jQuery = function () {};\r\n"]}
